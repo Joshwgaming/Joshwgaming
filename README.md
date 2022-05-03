@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I make discord bots when i'm bored and upload them to github
+
 
 <h3> 📊 Github Stats</h3>
 
